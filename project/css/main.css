@@ -1,0 +1,65 @@
+.h1_{
+    height: 100px;
+    text-align: center
+}
+
+.p1_size{
+    height: 100%
+}
+
+.span1{
+    font-size: 50px;
+    color: coral
+}
+
+.span2{
+    color: chocolate
+}
+
+.p2_size{
+    width: 80%;
+    height: 400px
+}
+
+.p2_local{
+    text-align: center
+}
+
+.hr_width{
+    width:80% 
+}
+
+.s_title{
+    color: darkgrey
+}
+
+.p3_local{
+    text-align: center
+}
+
+.div_inline{
+    display:inline
+}
+
+.img_size{
+    height: 180px;
+    width: 320px;
+}
+
+.wrap{
+    width: 85%;
+    display: flex;
+    justify-content: space-around
+}
+
+.mid_div{
+    margin-left: 12.5%;
+}
+
+.img_bottom{
+    
+}
+
+.font_bottom{
+    color: slategrey;
+}
